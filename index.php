@@ -1,0 +1,3 @@
+<?php
+// The start of the magical world...
+

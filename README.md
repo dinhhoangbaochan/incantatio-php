@@ -11,6 +11,12 @@ The whole concept of IncantatioPHP is based on my imagination about a magical wo
 
 Furthermore, I'm a apprentice (that means beginner in this magical world, but we wizard don't use beginner, we use *apprentice*). So my code might be full of *curses*, very amateur and lack of standard. I'll try my best (*talking to myself again because nobody's here anyway*).
 
+## Incantatio Core Concept
+
+We all agree from the first place that, writing code is like casting spells or doing magic, don't we? Keep that in mind, now every complete piece of code you write equally means you are casting a spell, or, performing an incantation. There are many ways to perform an incantation, you could do it the raw way (that main *ancient* and *great* sorcerers have done).
+
+Now, IncantatioPHP is born, in order to create a sets of structure, prebuilt incatations that help you perform an incantation easier, which finally helps you build something faster (I hope so). So, the whole core concept of IncantatioPHP is based on this thing. Based on IncantatioPHP, which provides many incantations, magical artifacts, magical ***creatures*** to help you along the way, you will then finally achieve your goal.
+
 ## Incantatio Credit
 - I'm hugely inspired by the magical world of Harry Potter, so many concepts would seem familiar with a Potterhead (if you are one).
 - The term `incantatio` is a Latin word. However, when I was trying to find a name, I did ask ChatGPT and it suggested me something such as "Enchanter", "Incantation" or "Arcane". I picked the `incantation` and translated it on Google Translate, so this name is partly credited to ChatGPT (please don't charge me if somehow I get famous by this framework, OpenAI).
