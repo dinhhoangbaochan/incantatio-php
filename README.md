@@ -1,4 +1,4 @@
-# IncantatioPHP
+# IncantatioPHP - Invocation Scroll
 
 > [!NOTE]
 > This **Invocation Scroll** is in its very first state, which means it lacks of many things and only contain the basic information of what this project is about.
